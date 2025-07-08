@@ -4,18 +4,6 @@ import os
 binaryOrPalindrome = input('Would you like to do binary or palindromes? ')
 
 if binaryOrPalindrome == "palindrome" or binaryOrPalindrome=="Palindrome":
-  #Citation: 
-  #Title: Python Program to Check if a String is Palindrome or Not
-  #Date: 1/30/2025
-  #Code Version: Python
-  #Availability: https://www.geeksforgeeks.org/python-program-check-string-palindrome-not/
-  
-  #Citation: 
-  #Title: How to Reverse a String in Python
-  #Date: 2/4/2025
-  #Code Version: Python
-  #Availability: https://www.w3schools.com/python/python_howto_reverse_string.asp
-  
     #Prints a statement explaining what a palindrome is
   print('A palindrome is just a word that reads the same backwards and forwards.')
   
@@ -59,20 +47,6 @@ if binaryOrPalindrome == "palindrome" or binaryOrPalindrome=="Palindrome":
   questionTwo(nameInput)
 
 if binaryOrPalindrome == 'binary' or binaryOrPalindrome == 'Binary':
-
-  #CITATION:
-  #Title: Python program to convert decimal to binary number
-  #Date: 2/5/25
-  #Code Version: Python
-  #Availability: https://www.geeksforgeeks.org/python-program-to-covert-decimal-to-binary-number/
-  
-  #CITATION:
-  #Title: Python String join() Method
-  #Date:2/5/25
-  #Code Version: Python
-  #Availability: https://www.geeksforgeeks.org/python-string-join-method/
-  
-  
   #Creates a list used to store all of the values found to be in the binary sequence as individual indexes, as well as defines a binaryValue & sumOfValues value to be used later. 
   list = []
   binaryValue = 0
